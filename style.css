@@ -1,15 +1,14 @@
-<<<<<<< HEAD
-=======
+
 html{
   background: black;
 }
 
->>>>>>> 77da179... initial commit
+
 body{
   background-color: #232323;
   font-family:sans-serif;
   margin: 0;
-<<<<<<< HEAD
+
 }
 
 .square{
@@ -17,7 +16,6 @@ body{
   height : 30%;
   margin: 1.66%;
   padding-bottom: 30%;
-=======
   font-family: cursive;
 }
 
@@ -26,7 +24,6 @@ body{
   /* height : 25%; */
   margin: 1.66%;
   padding-bottom: 25%;
->>>>>>> 77da179... initial commit
   background :pink;
   float: left;
   border-radius: 25px;
@@ -35,16 +32,10 @@ body{
 #container{
   max-width: 600px;
   margin : 20px auto;
-<<<<<<< HEAD
-}
-h1{
-  background : steelblue;
-=======
   margin-left: 30%;
 }
 h1{
   background : #1e486c;
->>>>>>> 77da179... initial commit
   margin: 0;
   color : white;
   text-align: center;
@@ -67,11 +58,7 @@ h1{
   color: black;
 }
 .selected{
-<<<<<<< HEAD
-  background : steelblue;
-=======
   background : #1e486c;
->>>>>>> 77da179... initial commit
   color: white;
 }
 button{
@@ -79,11 +66,7 @@ button{
   background: none;
   text-transform: uppercase;
   height: 100%;
-<<<<<<< HEAD
-  color: steelblue;
-=======
   color: #1e486c;
->>>>>>> 77da179... initial commit
   font-weight :700;
   letter-spacing: 1px;
   outline: none;
@@ -100,9 +83,6 @@ button{
 
 button:hover{
   color: white;
-<<<<<<< HEAD
-  background: steelblue;
-=======
   background: #1e486c;
 }
 
@@ -119,5 +99,4 @@ button:hover{
   width: 100%;
   color:white;
   padding-bottom: 3px;
->>>>>>> 77da179... initial commit
 }
