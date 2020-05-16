@@ -1,5 +1,5 @@
 ## RGB-color-game
-Fun game using basic JAVASCRIPT , HTML and CSS.
+[Fun Game](https://deeksha2501.github.io/RGB-color-game/) using basic JAVASCRIPT , HTML and CSS. 
 
 ## Features of the game
   You can switch between easy and difficult mode.<br>
