@@ -9,9 +9,9 @@
 
 
   <img src='./screenshots/img1.png' alt='screenshot'><br>
-  ## Switching to Easy mode<br>
+  ### Switching to Easy mode<br>
   <img src='./screenshots/img2.png' alt='screenshot'><br>
-  ## Wrong Guess
+  ### Wrong Guess
   <img src='./screenshots/img3.png' alt='screenshot'><br>
-  ## If choosen color box matches with the thw given RGB code.
+  ### If choosen the correct color box(matches with the the given RGB code).
   <img src='./screenshots/img4.png' alt='screenshot'>
